@@ -24,7 +24,7 @@ python3 reverser.py -seed "my_seed_string" -path "/path/to/my/image.png"
 This will mix the pixels of the image located at "/path/to/my/image.png" using the seed "my_seed_string", and save the reversed image to a "images" folder.
 
 ### The original image;
-![Original Image](image.jpg) 
+![Original Image](image.png) 
 ### Will turn into something like this;
 ![Reversed Image](images/image_reversed.png) 
 
