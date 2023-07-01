@@ -38,8 +38,6 @@ This will mix the pixels of the image located at "/path/to/my/image.png" using t
 
 - The script works with image files in the PNG, and JPG format.
 
-- The reversed image will have the same filename as the original image, but with "_reversed" appended to the end of the filename.
-
 - If you lose the seed used to reverse the image, there is no way to recover the original image.
 
 ## License
