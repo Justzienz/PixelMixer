@@ -31,7 +31,7 @@ for i in range(0,len(numbers),2):
   draw.point((x,y), (image.getpixel((nx,ny))))
   draw.point((nx,ny), (r,g,b,a))
 
-image.save(f"images/{path[:-4]}_reversed.png")
+image.save(f"images/reversed{str(int(time.time()))}.png")
 with open(".history.txt", "a") as f:
   now = datetime.now()
   date = now.strftime("%d, %B, %Y %H:%M")
