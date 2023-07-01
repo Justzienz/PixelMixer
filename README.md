@@ -4,6 +4,13 @@ This is a Python script that takes an image and a seed as input, mixes the pixel
 
 ## Usage
 
+Clone and move to this repository.
+
+```bash
+git clone https://github.com/Justzienz/ImageSplitter/
+cd ImageSplitter
+```
+
 To use the script, run the following command in your terminal:
 
 ```
