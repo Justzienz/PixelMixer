@@ -7,8 +7,8 @@ This is a Python script that takes an image and a seed as input, mixes the pixel
 Clone and move to this repository.
 
 ```bash
-git clone https://github.com/Justzienz/ImageSplitter/
-cd ImageSplitter
+git clone https://github.com/Justzienz/PixelMixer/
+cd PixelMixer
 ```
 
 To use the script, run the following command in your terminal:
